@@ -28,7 +28,7 @@
 		"urijs": "^1.19.11"
 	},
 	"devDependencies": {
-		"@companion-module/tools": "^2.1.1",
+		"@companion-module/tools": "^2.6.1",
 		"@types/fast-json-patch": "^1.1.7",
 		"@types/node": "^22.10.2",
 		"@types/urijs": "^1",
